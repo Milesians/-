@@ -235,7 +235,7 @@
 		0A4415EA06D95734A894C8912F3A4033 /* MJRefreshStateHeader.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshStateHeader.m; path = MJRefresh/Custom/Header/MJRefreshStateHeader.m; sourceTree = "<group>"; };
 		0E3CF564653C7754F15E5EDE9A9C0B74 /* YYCache.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = YYCache.xcconfig; sourceTree = "<group>"; };
 		0E76DA35EAD73B9729B7DFB3697E1B14 /* MASCompositeConstraint.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASCompositeConstraint.h; path = Masonry/MASCompositeConstraint.h; sourceTree = "<group>"; };
-		0F441FF6AD38D8D54D541DBDC6676F43 /* libPods-emark.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-emark.a"; path = "libPods-emark.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0F441FF6AD38D8D54D541DBDC6676F43 /* libPods-emark.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-emark.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		10E98B1BC1D7D8CEE4CFFB4EB3C2374D /* PNScatterChartDataItem.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PNScatterChartDataItem.h; path = PNChart/PNScatterChartDataItem.h; sourceTree = "<group>"; };
 		10EE89704CB0B732ED60A4ECF43F5047 /* YYDiskCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = YYDiskCache.h; path = YYCache/YYDiskCache.h; sourceTree = "<group>"; };
 		10F91A28332F6C09C8F6295350213FF4 /* MJRefreshGifHeader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJRefreshGifHeader.h; path = MJRefresh/Custom/Header/MJRefreshGifHeader.h; sourceTree = "<group>"; };
@@ -249,7 +249,7 @@
 		19F61A7418E95A9420D9D7A86E374EAE /* YYDiskCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = YYDiskCache.m; path = YYCache/YYDiskCache.m; sourceTree = "<group>"; };
 		1AF7DBC097B0F05D1EB224090B468B69 /* MASConstraintMaker.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASConstraintMaker.h; path = Masonry/MASConstraintMaker.h; sourceTree = "<group>"; };
 		1C9863DA5FC960273A485AF1FAD6AE7C /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/QuartzCore.framework; sourceTree = DEVELOPER_DIR; };
-		1E07A104774E54421D906705D890D873 /* libMasonry.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libMasonry.a; path = libMasonry.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		1E07A104774E54421D906705D890D873 /* libMasonry.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libMasonry.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E8E8A56CCA6C0C5C07298C9DC23AA94 /* ViewController+MASAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "ViewController+MASAdditions.m"; path = "Masonry/ViewController+MASAdditions.m"; sourceTree = "<group>"; };
 		1FA34AA1DD46AD037C6415DB3F77C675 /* UICountingLabel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = UICountingLabel.h; sourceTree = "<group>"; };
 		21D51CAC658169D6247491887FF883AC /* MASViewConstraint.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASViewConstraint.h; path = Masonry/MASViewConstraint.h; sourceTree = "<group>"; };
@@ -300,11 +300,11 @@
 		59175F71218EC69BFC14865CCBA79680 /* Masonry-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Masonry-dummy.m"; sourceTree = "<group>"; };
 		5922E99CA327F5CFDE2D9DF5D0ED9C95 /* UICountingLabel-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UICountingLabel-dummy.m"; sourceTree = "<group>"; };
 		5C7C6B3E5F6B2A00FAAB665319617F81 /* MJRefreshAutoNormalFooter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJRefreshAutoNormalFooter.h; path = MJRefresh/Custom/Footer/Auto/MJRefreshAutoNormalFooter.h; sourceTree = "<group>"; };
-		5CE87E5DF8181573AC688974FAFEA8AB /* libMMNumberKeyboard.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libMMNumberKeyboard.a; path = libMMNumberKeyboard.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		5DD1AB57C0CF0CA18FCFAD3953FD51E9 /* libMJRefresh.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libMJRefresh.a; path = libMJRefresh.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		5CE87E5DF8181573AC688974FAFEA8AB /* libMMNumberKeyboard.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libMMNumberKeyboard.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		5DD1AB57C0CF0CA18FCFAD3953FD51E9 /* libMJRefresh.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libMJRefresh.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		5ECE1413D447AC0425329E2FFE092A88 /* ViewController+MASAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "ViewController+MASAdditions.h"; path = "Masonry/ViewController+MASAdditions.h"; sourceTree = "<group>"; };
 		5FB6530605DFBF19AEE7209FE8A44446 /* MJRefreshGifHeader.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshGifHeader.m; path = MJRefresh/Custom/Header/MJRefreshGifHeader.m; sourceTree = "<group>"; };
-		5FFFDFB05C065520EC13E277DC402444 /* libUICountingLabel.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libUICountingLabel.a; path = libUICountingLabel.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		5FFFDFB05C065520EC13E277DC402444 /* libUICountingLabel.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libUICountingLabel.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		601FEB81A3728659E7E362DC5FCEA978 /* MJRefreshBackFooter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJRefreshBackFooter.h; path = MJRefresh/Base/MJRefreshBackFooter.h; sourceTree = "<group>"; };
 		603F6FF6EB2AF007EDC8A7909BD99772 /* MASConstraint.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASConstraint.m; path = Masonry/MASConstraint.m; sourceTree = "<group>"; };
 		604BF6736741E5CAA60CB3419E294760 /* YYMemoryCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = YYMemoryCache.h; path = YYCache/YYMemoryCache.h; sourceTree = "<group>"; };
@@ -337,12 +337,12 @@
 		8EAC3EFF40BFE86917CCEA4A6C206540 /* PNChart.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = PNChart.xcconfig; sourceTree = "<group>"; };
 		8FCD9CACD3A0AB9A828F47F09F724983 /* MJRefreshConst.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshConst.m; path = MJRefresh/MJRefreshConst.m; sourceTree = "<group>"; };
 		8FF58DA24CE98EAF828863D175D3B04A /* MASConstraintMaker.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASConstraintMaker.m; path = Masonry/MASConstraintMaker.m; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9429977210D267C2AE79342A2FD32563 /* MJRefreshAutoFooter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshAutoFooter.m; path = MJRefresh/Base/MJRefreshAutoFooter.m; sourceTree = "<group>"; };
 		94C0B2D1800D96702BEF3CFB50E4B599 /* CZPickerView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CZPickerView.h; path = Pod/Classes/CZPickerView.h; sourceTree = "<group>"; };
 		968F0D841F9AD665A174067150E4DEFC /* YYMemoryCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = YYMemoryCache.m; path = YYCache/YYMemoryCache.m; sourceTree = "<group>"; };
 		97CC07C4903398B3667D8238E441B1AE /* MMNumberKeyboard.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MMNumberKeyboard.xcconfig; sourceTree = "<group>"; };
-		99A2F3953C56942DB74EE82380F16E75 /* libPNChart.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libPNChart.a; path = libPNChart.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		99A2F3953C56942DB74EE82380F16E75 /* libPNChart.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPNChart.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B1BDC6A09DDFCC844EA70DA7C3D7294 /* MMNumberKeyboard-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MMNumberKeyboard-dummy.m"; sourceTree = "<group>"; };
 		9C4E42D718F711CA189AAAFF768C5BE4 /* MJRefresh.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJRefresh.h; path = MJRefresh/MJRefresh.h; sourceTree = "<group>"; };
 		9DAEDA47749715C63147E42003FA8A02 /* NSArray+MASShorthandAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSArray+MASShorthandAdditions.h"; path = "Masonry/NSArray+MASShorthandAdditions.h"; sourceTree = "<group>"; };
@@ -360,12 +360,12 @@
 		B146DB9B3AED25A9B99DFC5F5CF15011 /* PNLineChartDataItem.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PNLineChartDataItem.m; path = PNChart/PNLineChartDataItem.m; sourceTree = "<group>"; };
 		B27EBC464172DF1D40A4069A877B9DEC /* FMDatabaseQueue.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FMDatabaseQueue.h; path = src/fmdb/FMDatabaseQueue.h; sourceTree = "<group>"; };
 		B59AA416A0757A3D994FFE83DCE1145E /* MASLayoutConstraint.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASLayoutConstraint.m; path = Masonry/MASLayoutConstraint.m; sourceTree = "<group>"; };
-		B911A26008C76FB1552FB40B76FFE08A /* libFMDB.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libFMDB.a; path = libFMDB.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		B911A26008C76FB1552FB40B76FFE08A /* libFMDB.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libFMDB.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		BBD73BD8EF5EC136CA94925EAD735A86 /* Pods-emark-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-emark-dummy.m"; sourceTree = "<group>"; };
 		BC852E8FFF6F2A144DF4C8E51F9C068A /* NSLayoutConstraint+MASDebugAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSLayoutConstraint+MASDebugAdditions.h"; path = "Masonry/NSLayoutConstraint+MASDebugAdditions.h"; sourceTree = "<group>"; };
 		BC917CCA8888CE47C1163F39576AA093 /* MMNumberKeyboard-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MMNumberKeyboard-prefix.pch"; sourceTree = "<group>"; };
 		BC942BFA0CA0A326ACC5940A1242D8F1 /* UIView+MJExtension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+MJExtension.h"; path = "MJRefresh/UIView+MJExtension.h"; sourceTree = "<group>"; };
-		BDCA93F256FAE9E1E5504F883820324F /* libCZPicker.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libCZPicker.a; path = libCZPicker.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		BDCA93F256FAE9E1E5504F883820324F /* libCZPicker.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libCZPicker.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		BE820C545B4B03855D15DA0233C1D307 /* MJRefreshConst.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJRefreshConst.h; path = MJRefresh/MJRefreshConst.h; sourceTree = "<group>"; };
 		BF7B5A0B3E152360FFDEBAD1798360A7 /* CZPicker.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = CZPicker.xcconfig; sourceTree = "<group>"; };
 		C0A218256B060167F5AC76AB4F22F970 /* MJRefreshAutoFooter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJRefreshAutoFooter.h; path = MJRefresh/Base/MJRefreshAutoFooter.h; sourceTree = "<group>"; };
@@ -374,7 +374,7 @@
 		C25524CFF1382B6BD389BECC43709B41 /* PNChart-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "PNChart-prefix.pch"; sourceTree = "<group>"; };
 		C3DFEC885353C0F020D1B748286FD33C /* MJRefreshFooter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshFooter.m; path = MJRefresh/Base/MJRefreshFooter.m; sourceTree = "<group>"; };
 		C671E2346E34F3888834DC47EEFAC1A4 /* FMResultSet.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FMResultSet.m; path = src/fmdb/FMResultSet.m; sourceTree = "<group>"; };
-		C8753792B36B283413F0A6B51AEF008D /* libYYCache.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libYYCache.a; path = libYYCache.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		C8753792B36B283413F0A6B51AEF008D /* libYYCache.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libYYCache.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB15A9B1F601FC058005828EBCE15BFC /* CZPicker.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CZPicker.h; path = Pod/Classes/CZPicker.h; sourceTree = "<group>"; };
 		CB8AD7D713817A1234C1881275933D69 /* PNColor.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PNColor.h; path = PNChart/PNColor.h; sourceTree = "<group>"; };
 		CBFD518DFB84287F2E8F5A5F0FAC5B10 /* MMNumberKeyboardDeleteKey@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MMNumberKeyboardDeleteKey@3x.png"; path = "Images/MMNumberKeyboardDeleteKey@3x.png"; sourceTree = "<group>"; };
@@ -571,7 +571,6 @@
 				5771540575D72AF00805A26AED4B0A41 /* Resources */,
 				026AE6CC8232D92478563168040F396D /* Support Files */,
 			);
-			name = MMNumberKeyboard;
 			path = MMNumberKeyboard;
 			sourceTree = "<group>";
 		};
@@ -608,7 +607,6 @@
 				620A96986DACBC59F669EF573C8E8A47 /* UICountingLabel.m */,
 				DC38F3F87C5214F8A3A32E769487F38E /* Support Files */,
 			);
-			name = UICountingLabel;
 			path = UICountingLabel;
 			sourceTree = "<group>";
 		};
@@ -707,7 +705,6 @@
 				2270EBFF4582EF1FDA699395C0A81278 /* Resources */,
 				208FE02E92FFDE9312A2DE7A13A72C18 /* Support Files */,
 			);
-			name = MJRefresh;
 			path = MJRefresh;
 			sourceTree = "<group>";
 		};
@@ -724,7 +721,6 @@
 				968F0D841F9AD665A174067150E4DEFC /* YYMemoryCache.m */,
 				44C1ABDCA525C075A22254CD1DC32DF0 /* Support Files */,
 			);
-			name = YYCache;
 			path = YYCache;
 			sourceTree = "<group>";
 		};
@@ -767,7 +763,6 @@
 				8A7CD50C929F0E9C172C1C5014FFF205 /* PNScatterChartDataItem.m */,
 				CEFD53554BC41362D542BA0CCF49B7B1 /* Support Files */,
 			);
-			name = PNChart;
 			path = PNChart;
 			sourceTree = "<group>";
 		};
@@ -830,7 +825,6 @@
 				689CCE6F4FEA5C1F149659AAFCB591F5 /* standard */,
 				27AC05354CF64E6FBE5432CCDD020BBA /* Support Files */,
 			);
-			name = FMDB;
 			path = FMDB;
 			sourceTree = "<group>";
 		};
@@ -853,7 +847,6 @@
 				7DCDD7A527555973BE99CD3D9DDFDFAD /* CZPickerView.m */,
 				C38B6DE74A57BA6575A734C950BB5532 /* Support Files */,
 			);
-			name = CZPicker;
 			path = CZPicker;
 			sourceTree = "<group>";
 		};
@@ -887,7 +880,6 @@
 				1E8E8A56CCA6C0C5C07298C9DC23AA94 /* ViewController+MASAdditions.m */,
 				289D4A0158AD316CF6240C8FC87C0705 /* Support Files */,
 			);
-			name = Masonry;
 			path = Masonry;
 			sourceTree = "<group>";
 		};
@@ -1188,7 +1180,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0830;
-				LastUpgradeCheck = 0700;
+				LastUpgradeCheck = 0940;
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -1416,7 +1408,7 @@
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_PREFIX_HEADER = "Target Support Files/MMNumberKeyboard/MMNumberKeyboard-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -1439,7 +1431,7 @@
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_PREFIX_HEADER = "Target Support Files/PNChart/PNChart-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -1462,7 +1454,7 @@
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_PREFIX_HEADER = "Target Support Files/FMDB/FMDB-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -1485,7 +1477,7 @@
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_PREFIX_HEADER = "Target Support Files/YYCache/YYCache-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -1508,7 +1500,7 @@
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_PREFIX_HEADER = "Target Support Files/MJRefresh/MJRefresh-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -1531,7 +1523,7 @@
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_PREFIX_HEADER = "Target Support Files/UICountingLabel/UICountingLabel-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -1553,22 +1545,32 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CODE_SIGNING_REQUIRED = NO;
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"POD_CONFIGURATION_RELEASE=1",
 					"$(inherited)",
@@ -1621,7 +1623,7 @@
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_PREFIX_HEADER = "Target Support Files/MJRefresh/MJRefresh-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -1644,7 +1646,7 @@
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_PREFIX_HEADER = "Target Support Files/UICountingLabel/UICountingLabel-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -1667,7 +1669,7 @@
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_PREFIX_HEADER = "Target Support Files/YYCache/YYCache-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -1690,7 +1692,7 @@
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_PREFIX_HEADER = "Target Support Files/Masonry/Masonry-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -1713,7 +1715,7 @@
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_PREFIX_HEADER = "Target Support Files/FMDB/FMDB-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -1736,7 +1738,7 @@
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_PREFIX_HEADER = "Target Support Files/PNChart/PNChart-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -1782,7 +1784,7 @@
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_PREFIX_HEADER = "Target Support Files/Masonry/Masonry-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -1850,23 +1852,33 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CODE_SIGNING_REQUIRED = NO;
 				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"POD_CONFIGURATION_DEBUG=1",
@@ -1899,7 +1911,7 @@
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_PREFIX_HEADER = "Target Support Files/MMNumberKeyboard/MMNumberKeyboard-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
