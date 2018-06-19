@@ -1,10 +1,3 @@
-//
-//  EMAlertManager.m
-//  emark
-//
-//  Created by neebel on 2017/5/29.
-//  Copyright © 2017年 neebel. All rights reserved.
-//
 
 #import "EMAlertManager.h"
 #import "EMAlertViewController.h"
@@ -16,7 +9,7 @@
 
 @end
 
-const char *localNotificationQueue = "cn.neebel.emark.localNotificationQueue";
+const char *localNotificationQueue = "cn.huangtao.emark.localNotificationQueue";
 
 @implementation EMAlertManager
 

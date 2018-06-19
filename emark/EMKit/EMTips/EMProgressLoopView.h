@@ -2,8 +2,8 @@
 //  EMProgressLoopView.h
 //  EMTips
 //
-//  Created by neebel on 17/5/28.
-//  Copyright © 2017年 neebel. All rights reserved.
+//  Created by huangtao on 17/6/20.
+//  Copyright © 2018年 huangtao. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

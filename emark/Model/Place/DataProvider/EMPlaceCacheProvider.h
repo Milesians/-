@@ -2,8 +2,8 @@
 //  EMPlaceCacheProvider.h
 //  emark
 //
-//  Created by neebel on 2017/5/29.
-//  Copyright © 2017年 neebel. All rights reserved.
+//  Created by huangtao on 2018/6/21.
+//  Copyright © 2018年 huangtao. All rights reserved.
 //
 
 #import "EMBaseDatabaseCommonProvider.h"

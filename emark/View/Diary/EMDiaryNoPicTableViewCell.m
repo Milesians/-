@@ -1,10 +1,4 @@
-//
-//  EMDiaryNoPicTableViewCell.m
-//  emark
-//
-//  Created by neebel on 2017/5/30.
-//  Copyright © 2017年 neebel. All rights reserved.
-//
+
 
 #import "EMDiaryNoPicTableViewCell.h"
 #import "EMVerticallyAlignedLabel.h"

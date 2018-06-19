@@ -2,8 +2,8 @@
 //  EMTipsInfo.h
 //  EMTips
 //
-//  Created by neebel on 5/28/17.
-//  Copyright © 2017 neebel. All rights reserved.
+//  Created by huangtao on 6/20/17.
+//  Copyright © 2018 huangtao. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

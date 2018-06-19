@@ -2,8 +2,8 @@
 //  EMPublishBillTableViewCell.h
 //  emark
 //
-//  Created by neebel on 2017/5/31.
-//  Copyright © 2017年 neebel. All rights reserved.
+//  Created by huangtao on 2018/6/23.
+//  Copyright © 2018年 huangtao. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

@@ -215,8 +215,8 @@
 		4B5B98831EDFCA5E00EA014D /* EMDatePicker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EMDatePicker.m; sourceTree = "<group>"; };
 		4B5B98851EDFCB2E00EA014D /* EMToolbar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EMToolbar.h; sourceTree = "<group>"; };
 		4B5B98861EDFCB2E00EA014D /* EMToolbar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EMToolbar.m; sourceTree = "<group>"; };
-		4B6237F41EE2566C00E723E3 /* EMAlertViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EMAlertViewController.h; sourceTree = "<group>"; };
-		4B6237F51EE2566C00E723E3 /* EMAlertViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EMAlertViewController.m; sourceTree = "<group>"; };
+		4B6237F41EE2566C00E723E3 /* EMAlertViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = EMAlertViewController.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		4B6237F51EE2566C00E723E3 /* EMAlertViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = EMAlertViewController.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		4B6237F71EE2578C00E723E3 /* EMPublishAlertViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EMPublishAlertViewController.h; sourceTree = "<group>"; };
 		4B6237F81EE2578C00E723E3 /* EMPublishAlertViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EMPublishAlertViewController.m; sourceTree = "<group>"; };
 		4B6237FF1EE26D7200E723E3 /* EMAlertInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EMAlertInfo.h; sourceTree = "<group>"; };
@@ -229,12 +229,12 @@
 		4B6238081EE2720D00E723E3 /* EMPublishAlertTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EMPublishAlertTableViewCell.m; sourceTree = "<group>"; };
 		4B62380B1EE27F8700E723E3 /* EMAlertCacheProvider.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EMAlertCacheProvider.h; sourceTree = "<group>"; };
 		4B62380C1EE27F8700E723E3 /* EMAlertCacheProvider.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EMAlertCacheProvider.m; sourceTree = "<group>"; };
-		4B62380E1EE28A5C00E723E3 /* EMAlertHandler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EMAlertHandler.h; sourceTree = "<group>"; };
-		4B62380F1EE28A5C00E723E3 /* EMAlertHandler.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EMAlertHandler.m; sourceTree = "<group>"; };
-		4B6238111EE28C0E00E723E3 /* EMAlertManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EMAlertManager.h; sourceTree = "<group>"; };
-		4B6238121EE28C0E00E723E3 /* EMAlertManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EMAlertManager.m; sourceTree = "<group>"; };
-		4B6238141EE2A77800E723E3 /* EMAlertTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EMAlertTableViewCell.h; sourceTree = "<group>"; };
-		4B6238151EE2A77800E723E3 /* EMAlertTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EMAlertTableViewCell.m; sourceTree = "<group>"; };
+		4B62380E1EE28A5C00E723E3 /* EMAlertHandler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = EMAlertHandler.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		4B62380F1EE28A5C00E723E3 /* EMAlertHandler.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = EMAlertHandler.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		4B6238111EE28C0E00E723E3 /* EMAlertManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = EMAlertManager.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		4B6238121EE28C0E00E723E3 /* EMAlertManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = EMAlertManager.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		4B6238141EE2A77800E723E3 /* EMAlertTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = EMAlertTableViewCell.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		4B6238151EE2A77800E723E3 /* EMAlertTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = EMAlertTableViewCell.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		4B761F601EED74F7006A00C6 /* EMMaskView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EMMaskView.h; sourceTree = "<group>"; };
 		4B761F611EED74F7006A00C6 /* EMMaskView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EMMaskView.m; sourceTree = "<group>"; };
 		4B83DDC81EDA8C320053B829 /* EMSettingActionSheet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EMSettingActionSheet.h; sourceTree = "<group>"; };
@@ -250,24 +250,24 @@
 		4B83DDE21EDAB2100053B829 /* EMTipsView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EMTipsView.h; sourceTree = "<group>"; };
 		4B83DDE31EDAB2100053B829 /* EMTipsView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EMTipsView.m; sourceTree = "<group>"; };
 		4B8800001ED92CD100135702 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4B8800051ED92CD100135702 /* emarkUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = emarkUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		4B8800051ED92CD100135702 /* EasyMarkUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EasyMarkUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B8800091ED92CD100135702 /* emarkUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = emarkUITests.m; sourceTree = "<group>"; };
 		4B88000B1ED92CD100135702 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4B88FFE11ED92CD100135702 /* emark.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = emark.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4B88FFE11ED92CD100135702 /* EasyMark.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EasyMark.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B88FFE51ED92CD100135702 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		4B88FFE71ED92CD100135702 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		4B88FFE81ED92CD100135702 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		4B88FFEE1ED92CD100135702 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		4B88FFF31ED92CD100135702 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4B88FFF51ED92CD100135702 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4B88FFFA1ED92CD100135702 /* emarkTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = emarkTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		4B88FFFE1ED92CD100135702 /* emarkTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = emarkTests.m; sourceTree = "<group>"; };
+		4B88FFFA1ED92CD100135702 /* EasyMarkTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EasyMarkTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		4B88FFFE1ED92CD100135702 /* emarkTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = emarkTests.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		4B8EB40A1EE9A1BF009EDCB6 /* EMMonthBillLegend.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EMMonthBillLegend.h; sourceTree = "<group>"; };
 		4B8EB40B1EE9A1BF009EDCB6 /* EMMonthBillLegend.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EMMonthBillLegend.m; sourceTree = "<group>"; };
 		4B9F26651EECF406004B2230 /* EMShowPhotoTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EMShowPhotoTool.h; sourceTree = "<group>"; };
 		4B9F26661EECF406004B2230 /* EMShowPhotoTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EMShowPhotoTool.m; sourceTree = "<group>"; };
-		4B9F26681EED1F98004B2230 /* EMAlertConfigInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EMAlertConfigInfo.h; sourceTree = "<group>"; };
-		4B9F26691EED1F98004B2230 /* EMAlertConfigInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EMAlertConfigInfo.m; sourceTree = "<group>"; };
+		4B9F26681EED1F98004B2230 /* EMAlertConfigInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = EMAlertConfigInfo.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		4B9F26691EED1F98004B2230 /* EMAlertConfigInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = EMAlertConfigInfo.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		4B9F266B1EED3001004B2230 /* EMSplashViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EMSplashViewController.h; sourceTree = "<group>"; };
 		4B9F266C1EED3001004B2230 /* EMSplashViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EMSplashViewController.m; sourceTree = "<group>"; };
 		4B9F29AF1EDE595000577D4B /* EMDiaryShowViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EMDiaryShowViewController.h; sourceTree = "<group>"; };
@@ -278,8 +278,8 @@
 		4B9F29B61EDE5E0D00577D4B /* EMDiaryShowHeaderView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EMDiaryShowHeaderView.m; sourceTree = "<group>"; };
 		4B9F29B81EDE863200577D4B /* EMDiaryEditViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EMDiaryEditViewController.h; sourceTree = "<group>"; };
 		4B9F29B91EDE863200577D4B /* EMDiaryEditViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EMDiaryEditViewController.m; sourceTree = "<group>"; };
-		4BA30BD81EDBCABF006376B0 /* EMAboutUsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EMAboutUsViewController.h; sourceTree = "<group>"; };
-		4BA30BD91EDBCABF006376B0 /* EMAboutUsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EMAboutUsViewController.m; sourceTree = "<group>"; };
+		4BA30BD81EDBCABF006376B0 /* EMAboutUsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = EMAboutUsViewController.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		4BA30BD91EDBCABF006376B0 /* EMAboutUsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = EMAboutUsViewController.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		4BA30BDB1EDBCD21006376B0 /* EMDeviceUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EMDeviceUtil.h; sourceTree = "<group>"; };
 		4BA30BDC1EDBCD21006376B0 /* EMDeviceUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EMDeviceUtil.m; sourceTree = "<group>"; };
 		4BA30BDF1EDBDDD8006376B0 /* EMDiaryViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EMDiaryViewController.h; sourceTree = "<group>"; };
@@ -316,8 +316,8 @@
 		4BBD99761ED9572A002AA8FB /* EMHomeManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EMHomeManager.m; sourceTree = "<group>"; };
 		4BBD99781ED95866002AA8FB /* EMResult.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EMResult.h; sourceTree = "<group>"; };
 		4BBD99791ED95866002AA8FB /* EMResult.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EMResult.m; sourceTree = "<group>"; };
-		4BBD997B1ED95A47002AA8FB /* EMAutoCoding.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EMAutoCoding.h; sourceTree = "<group>"; };
-		4BBD997C1ED95A47002AA8FB /* EMAutoCoding.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EMAutoCoding.m; sourceTree = "<group>"; };
+		4BBD997B1ED95A47002AA8FB /* EMAutoCoding.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = EMAutoCoding.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		4BBD997C1ED95A47002AA8FB /* EMAutoCoding.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = EMAutoCoding.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		4BBD997E1ED95B2A002AA8FB /* EMHomeHeadInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EMHomeHeadInfo.h; sourceTree = "<group>"; };
 		4BBD997F1ED95B2A002AA8FB /* EMHomeHeadInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EMHomeHeadInfo.m; sourceTree = "<group>"; };
 		4BBD99841ED976FA002AA8FB /* EMQueueDef.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EMQueueDef.h; sourceTree = "<group>"; };
@@ -745,9 +745,9 @@
 		4B88FFE21ED92CD100135702 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4B88FFE11ED92CD100135702 /* emark.app */,
-				4B88FFFA1ED92CD100135702 /* emarkTests.xctest */,
-				4B8800051ED92CD100135702 /* emarkUITests.xctest */,
+				4B88FFE11ED92CD100135702 /* EasyMark.app */,
+				4B88FFFA1ED92CD100135702 /* EasyMarkTests.xctest */,
+				4B8800051ED92CD100135702 /* EasyMarkUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -1054,9 +1054,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4B8800041ED92CD100135702 /* emarkUITests */ = {
+		4B8800041ED92CD100135702 /* EasyMarkUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4B8800141ED92CD100135702 /* Build configuration list for PBXNativeTarget "emarkUITests" */;
+			buildConfigurationList = 4B8800141ED92CD100135702 /* Build configuration list for PBXNativeTarget "EasyMarkUITests" */;
 			buildPhases = (
 				4B8800011ED92CD100135702 /* Sources */,
 				4B8800021ED92CD100135702 /* Frameworks */,
@@ -1067,14 +1067,14 @@
 			dependencies = (
 				4B8800071ED92CD100135702 /* PBXTargetDependency */,
 			);
-			name = emarkUITests;
+			name = EasyMarkUITests;
 			productName = emarkUITests;
-			productReference = 4B8800051ED92CD100135702 /* emarkUITests.xctest */;
+			productReference = 4B8800051ED92CD100135702 /* EasyMarkUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
-		4B88FFE01ED92CD100135702 /* emark */ = {
+		4B88FFE01ED92CD100135702 /* EasyMark */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4B88000E1ED92CD100135702 /* Build configuration list for PBXNativeTarget "emark" */;
+			buildConfigurationList = 4B88000E1ED92CD100135702 /* Build configuration list for PBXNativeTarget "EasyMark" */;
 			buildPhases = (
 				D96A33FFCE97A34EF02F81D2 /* [CP] Check Pods Manifest.lock */,
 				4B88FFDD1ED92CD100135702 /* Sources */,
@@ -1087,14 +1087,14 @@
 			);
 			dependencies = (
 			);
-			name = emark;
+			name = EasyMark;
 			productName = emark;
-			productReference = 4B88FFE11ED92CD100135702 /* emark.app */;
+			productReference = 4B88FFE11ED92CD100135702 /* EasyMark.app */;
 			productType = "com.apple.product-type.application";
 		};
-		4B88FFF91ED92CD100135702 /* emarkTests */ = {
+		4B88FFF91ED92CD100135702 /* EasyMarkTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4B8800111ED92CD100135702 /* Build configuration list for PBXNativeTarget "emarkTests" */;
+			buildConfigurationList = 4B8800111ED92CD100135702 /* Build configuration list for PBXNativeTarget "EasyMarkTests" */;
 			buildPhases = (
 				4B88FFF61ED92CD100135702 /* Sources */,
 				4B88FFF71ED92CD100135702 /* Frameworks */,
@@ -1105,9 +1105,9 @@
 			dependencies = (
 				4B88FFFC1ED92CD100135702 /* PBXTargetDependency */,
 			);
-			name = emarkTests;
+			name = EasyMarkTests;
 			productName = emarkTests;
-			productReference = 4B88FFFA1ED92CD100135702 /* emarkTests.xctest */;
+			productReference = 4B88FFFA1ED92CD100135702 /* EasyMarkTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -1117,7 +1117,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0830;
-				ORGANIZATIONNAME = neebel;
+				ORGANIZATIONNAME = huangtao;
 				TargetAttributes = {
 					4B8800041ED92CD100135702 = {
 						CreatedOnToolsVersion = 8.3.2;
@@ -1127,8 +1127,7 @@
 					};
 					4B88FFE01ED92CD100135702 = {
 						CreatedOnToolsVersion = 8.3.2;
-						DevelopmentTeam = RG7HF2MUY9;
-						ProvisioningStyle = Automatic;
+						ProvisioningStyle = Manual;
 					};
 					4B88FFF91ED92CD100135702 = {
 						CreatedOnToolsVersion = 8.3.2;
@@ -1138,7 +1137,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 4B88FFDC1ED92CD100135702 /* Build configuration list for PBXProject "emark" */;
+			buildConfigurationList = 4B88FFDC1ED92CD100135702 /* Build configuration list for PBXProject "EasyMark" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -1152,9 +1151,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4B88FFE01ED92CD100135702 /* emark */,
-				4B88FFF91ED92CD100135702 /* emarkTests */,
-				4B8800041ED92CD100135702 /* emarkUITests */,
+				4B88FFE01ED92CD100135702 /* EasyMark */,
+				4B88FFF91ED92CD100135702 /* EasyMarkTests */,
+				4B8800041ED92CD100135702 /* EasyMarkUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -1371,12 +1370,12 @@
 /* Begin PBXTargetDependency section */
 		4B8800071ED92CD100135702 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 4B88FFE01ED92CD100135702 /* emark */;
+			target = 4B88FFE01ED92CD100135702 /* EasyMark */;
 			targetProxy = 4B8800061ED92CD100135702 /* PBXContainerItemProxy */;
 		};
 		4B88FFFC1ED92CD100135702 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 4B88FFE01ED92CD100135702 /* emark */;
+			target = 4B88FFE01ED92CD100135702 /* EasyMark */;
 			targetProxy = 4B88FFFB1ED92CD100135702 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -1509,14 +1508,16 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				DEVELOPMENT_TEAM = RG7HF2MUY9;
+				DEVELOPMENT_TEAM = "";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = emark/EMPrefixHeader.pch;
 				INFOPLIST_FILE = emark/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = cn.neebel.emark;
+				PRODUCT_BUNDLE_IDENTIFIER = com.easymark;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -1526,14 +1527,16 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				DEVELOPMENT_TEAM = RG7HF2MUY9;
+				DEVELOPMENT_TEAM = "";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = emark/EMPrefixHeader.pch;
 				INFOPLIST_FILE = emark/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = cn.neebel.emark;
+				PRODUCT_BUNDLE_IDENTIFIER = com.easymark;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -1546,7 +1549,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cn.neebel.emarkTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/emark.app/emark";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/EasyMark.app/EasyMark";
 			};
 			name = Debug;
 		};
@@ -1559,7 +1562,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cn.neebel.emarkTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/emark.app/emark";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/EasyMark.app/EasyMark";
 			};
 			name = Release;
 		};
@@ -1590,7 +1593,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4B88000E1ED92CD100135702 /* Build configuration list for PBXNativeTarget "emark" */ = {
+		4B88000E1ED92CD100135702 /* Build configuration list for PBXNativeTarget "EasyMark" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4B88000F1ED92CD100135702 /* Debug */,
@@ -1599,7 +1602,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4B8800111ED92CD100135702 /* Build configuration list for PBXNativeTarget "emarkTests" */ = {
+		4B8800111ED92CD100135702 /* Build configuration list for PBXNativeTarget "EasyMarkTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4B8800121ED92CD100135702 /* Debug */,
@@ -1608,7 +1611,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4B8800141ED92CD100135702 /* Build configuration list for PBXNativeTarget "emarkUITests" */ = {
+		4B8800141ED92CD100135702 /* Build configuration list for PBXNativeTarget "EasyMarkUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4B8800151ED92CD100135702 /* Debug */,
@@ -1617,7 +1620,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4B88FFDC1ED92CD100135702 /* Build configuration list for PBXProject "emark" */ = {
+		4B88FFDC1ED92CD100135702 /* Build configuration list for PBXProject "EasyMark" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4B88000C1ED92CD100135702 /* Debug */,

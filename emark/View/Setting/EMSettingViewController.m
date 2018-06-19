@@ -2,8 +2,8 @@
 //  EMSettingViewController.m
 //  emark
 //
-//  Created by neebel on 2017/5/27.
-//  Copyright © 2017年 neebel. All rights reserved.
+//  Created by huangtao on 2018/6/24.
+//  Copyright © 2018年 huangtao. All rights reserved.
 //
 
 #import "EMSettingViewController.h"
@@ -123,7 +123,7 @@ static NSString *settingTableViewHeaderViewIdentifier = @"settingTableViewHeader
         EMAboutUsViewController *aboutUsVC = [[EMAboutUsViewController alloc] init];
         [self.navigationController pushViewController:aboutUsVC animated:YES];
     } else if ([title isEqualToString:NSLocalizedString(@"鼓励一下", nil)]) {
-        [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"itms-apps://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?id=1247383214&onlyLatestVersion=true&pageNumber=0&sortOrdering=1&type=Purple+Software"]];
+        [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"https://github.com/Milesians"]];
     }
 }
 
